@@ -92,8 +92,6 @@ The app intelligently processes jackpot data by:
 ### Ordering & Sorting
 Jackpot items are displayed with intelligent sorting:
 - **Primary Sort**: By `order` field from widget configuration
-- **Secondary Sort**: By `levelId` for consistent ordering
-- **Ascending Order**: Items displayed from lowest to highest priority
 
 ### UI Features
 - **Adaptive Theming**: Automatic light/dark theme switching
