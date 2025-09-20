@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/haykavanesyan/Projects/TASKS/Digitain/core/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15081807008036955472.xml:2:13-83
+INJECTED from /Users/haykavanesyan/Projects/TASKS/Digitain/core/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15081807008036955472.xml:2:13-83
+	package
+		INJECTED from /Users/haykavanesyan/Projects/TASKS/Digitain/core/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15081807008036955472.xml
+	xmlns:android
+		ADDED from /Users/haykavanesyan/Projects/TASKS/Digitain/core/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15081807008036955472.xml:2:23-81
+uses-sdk
+INJECTED from /Users/haykavanesyan/Projects/TASKS/Digitain/core/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15081807008036955472.xml reason: use-sdk injection requested
+INJECTED from /Users/haykavanesyan/Projects/TASKS/Digitain/core/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15081807008036955472.xml
+INJECTED from /Users/haykavanesyan/Projects/TASKS/Digitain/core/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15081807008036955472.xml
+	android:targetSdkVersion
+		INJECTED from /Users/haykavanesyan/Projects/TASKS/Digitain/core/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15081807008036955472.xml
+	android:minSdkVersion
+		INJECTED from /Users/haykavanesyan/Projects/TASKS/Digitain/core/data/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15081807008036955472.xml

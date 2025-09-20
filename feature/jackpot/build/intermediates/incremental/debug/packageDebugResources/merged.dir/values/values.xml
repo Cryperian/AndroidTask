@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bet_id">Bet ID: %1$s</string>
+    <string name="biggest_win">Biggest Win</string>
+    <string name="error_message">Error loading jackpot data</string>
+    <string name="latest_win">Latest Win</string>
+    <string name="min_bet">Min Bet:</string>
+    <string name="no_winners">No Winners Yet</string>
+</resources>

@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.digitain.feature.jackpot.viewmodel.JackpotViewModel

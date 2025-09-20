@@ -1,0 +1,15 @@
+com.digitain.feature.jackpot
+drawable bg_bronze
+drawable bg_dimond
+drawable bg_gold
+drawable bg_silver
+drawable ic_bronze
+drawable ic_dimond
+drawable ic_gold
+drawable ic_silver
+string bet_id
+string biggest_win
+string error_message
+string latest_win
+string min_bet
+string no_winners
