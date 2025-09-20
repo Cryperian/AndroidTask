@@ -10,7 +10,7 @@ A modern Android application built with Jetpack Compose that displays jackpot da
 
 *Watch the app in action with real-time jackpot updates, theme switching, and bottom sheet interactions*
 
-### 📸 Screenshots
+### Screenshots
 
 #### Light Theme
 | Main Screen | Bottom Sheet |
@@ -47,10 +47,6 @@ AndroidTask
 
 ### MVI Pattern Implementation
 
-- **Model**: Represents the state of the UI (`JackpotUiState`)
-- **View**: Composable functions that render the UI based on state
-- **Intent**: User actions and events (`JackpotIntent`)
-
 The `JackpotViewModel` acts as the mediator, processing intents and updating the state accordingly.
 
 ### Multi-Modular Benefits
@@ -79,11 +75,6 @@ The `JackpotViewModel` acts as the mediator, processing intents and updating the
 - **Retrofit**: HTTP client for API communication
 - **Kotlin Serialization**: JSON parsing and serialization
 - **Repository Pattern**: Abstraction layer for data sources
-
-### Build & Tools
-- **Gradle KTS**: Kotlin-based build scripts
-- **Version Catalogs**: Centralized dependency management
-- **KSP**: Kotlin Symbol Processing for annotation processors
 
 ## Features
 
@@ -137,12 +128,6 @@ API → Repository → UseCase → ViewModel → UI
                   Domain Models      UI Events
 ```
 
-
-### Setup
-1. Clone the repository
-2. Open in Android Studio
-3. Sync project with Gradle files
-4. Run the app on emulator or device
 
 ## Project Structure
 
